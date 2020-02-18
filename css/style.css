@@ -1,0 +1,247 @@
+body{
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+}
+
+.header{
+  background-color: #ecb390;
+  padding-left: 40px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.title{
+  font-size: 3.25em;
+  color: #df7861;
+  font-family: 'Indie Flower', cursive;
+  margin-left: 35px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.welcome-quote{
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 5px;
+}
+
+.top-picture{
+  display:block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+
+.quote{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.2em;
+}
+
+.product-selector{
+  text-align: center;
+  position: relative;
+  margin-bottom: 30px;
+  background-color: #ecb390;
+  height: auto;
+  padding-bottom: 15px;
+}
+
+.product-ribbon{
+  padding-top: 20px;
+  margin-top: 10px;
+}
+
+.product-image{
+  width: 180px;
+  height: 120px;
+  margin: auto;
+  border-radius: 7.5px;
+  border-width: thick;
+  border: solid;
+  border-color: #ecdfc8;
+}
+
+.product-card{
+  width: 200px;
+  height: 340px;
+  display: inline-grid;
+  border: solid;
+  border-width: medium;
+  border-color: #ecdfc8;
+  margin: 20px auto 20px auto;
+  padding: 20px;
+  background-color: #df7861;
+  border-radius: 10px;
+}
+
+.product-card:hover{
+  width: 200px;
+  height: 340px;
+  display: inline-grid;
+  border: solid;
+  border-width: medium;
+  border-color: #ecdfc8;
+  margin: 0 auto 0 auto;
+  padding: 25px;
+  background-color: #df7861;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cardtitle{
+  color: #ecb390;
+}
+
+.prodh2{
+  padding-top: 20px;
+  color: #df7861;
+  font-family: 'Sriracha', cursive;
+  margin-top: 0;
+}
+
+
+h2{
+  margin-bottom: 5px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.horirule{
+  width: 200px;
+  border: 1px dashed #b7472a;
+  width: 15%;
+  margin: auto;
+}
+
+.info-button{
+  border: none;
+  margin: auto;
+  width: 150px;
+  height: 60px;
+  color: #b7472a;
+  background-color: #ecb390;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+.info-button:hover{
+  border: none;
+  margin: auto;
+  width: 150px;
+  height: 60px;
+  color: #ecb390;
+  background-color: #b7472a;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+.cardinfo{
+  font-size: 0.82em;
+  font-family: 'Sriracha', cursive;
+}
+
+.text-box{
+  margin: auto;
+  padding-bottom: 5px;
+  width: 180px;
+  height: 100px;
+}
+
+.product-description{
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #b7472a;
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: #ecb390;
+  margin-bottom: 85px;
+}
+
+.content-img{
+float: left;
+height: auto;
+margin-right: 30px;
+padding-left: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 10px;
+max-width: 120px;
+max-height: 90px;
+}
+
+.packitem{
+  font-size: 1.1em;
+  font-family: 'Sriracha', cursive;
+}
+
+.product-list{
+  padding-bottom: 30px;
+}
+
+.product-header{
+
+  font-size: 1.5em;
+  font-family: 'Indie Flower', cursive;
+}
+
+.product-text{
+  margin-right: 15px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+  margin-left: 15px;
+
+}
+
+.order-button{
+  float: right;
+  border: none;
+  margin-top: 5px;
+  width: 150px;
+  height: 60px;
+  color: #b7472a;
+  background-color: #ecb390;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+.order-button:hover{
+  float: right;
+  border: none;
+  margin-top: 5px;
+  width: 150px;
+  height: 60px;
+  color: #ecb390;
+  background-color: #b7472a;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+.contacts{
+background-color: #b7472a;
+padding-left: 10%;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 10%;
+font-family: 'Sriracha', cursive;
+font-size: 1.2em;
+color: #ecb390;
+}
+
+
+font-family: 'Sriracha', cursive;
+font-family: 'Modak', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Dancing Script', cursive;
